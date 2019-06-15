@@ -12,5 +12,5 @@ Auto generate Package.xml file using ANT Script. Get All Folder and file names i
 * update "config/build.properties" with correct username and password
 * Open Command prompt
 * Navigate to folder where "build.xml" is present
-*  execute command : "Ant" or "Ant packageGen"
+*  execute command : "Ant" or "Ant generatePackage"
 
