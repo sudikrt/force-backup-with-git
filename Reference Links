@@ -1,0 +1,21 @@
+References :
+=========================================================================
+https://www.jitendrazaa.com/blog/salesforce/automated-daily-backup-using-ant-migration-tool-and-git/
+
+https://medium.com/@mohitkumarsrivastav/auto-generate-package-xml-for-salesforce-application-development-deployment-e73eb53edf40
+
+https://www.jitendrazaa.com/blog/salesforce/salesforce-migration-tool-ant/
+
+=========================================================================
+Auto Generate Packgae:
+https://www.jitendrazaa.com/blog/salesforce/auto-generate-package-xml-using-ant-complete-source-code-and-video/
+
+
+
+Ant References:
+=========================================================================
+https://ant.apache.org/manual/Tasks/delete.html
+
+https://ant.apache.org/manual/Tasks/antcall.html
+
+
